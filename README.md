@@ -1,16 +1,49 @@
 ## Hi there 👋
 
-<!--
-**tim9910/tim9910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TimLin
 
-Here are some ideas to get you started:
+**Senior Undergraduate in Computer Science**  
+*Interested in Applied Machine Learning, Systems, and Network Security*  
+📍 Taiwan · <!--💼 [LinkedIn](https://linkedin.com/in/yourprofile) · ✉️ `your.email@university.edu`-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Interests
+- **Applied Machine Learning:** Sequence modeling, representation learning, and anomaly detection on structured and time-series data.
+- **Computer Systems & Architecture:** Low-level programming, instruction set architectures (RISC-V), and system performance profiling.
+- **Software Engineering:** Designing responsive desktop utilities and reliable software pipelines.
+
+---
+
+## 🔬 Capstone & Research Project
+
+- ** **  
+
+---
+
+## 🏆 Competitions
+
+- **InnoServe Awards (International ICT Innovative Services Awards)**  
+
+---
+
+## ⚙️ Coursework & Systems Implementations
+
+- **RISC-V Computational Routines & Execution Profiling**  
+  *Computer Architecture Coursework · RISC-V Assembly, C, Simulator*  
+  - Implemented recursive and iterative permutation/combination algorithms directly in RISC-V assembly.
+  - Managed register calling conventions, stack frame allocation, and base-case terminations.
+  - Measured instruction counts, CPI (Cycles Per Instruction), and execution overhead using an architecture simulator.
+
+- **Desktop Utilities & Event-Driven Applications**  
+  *Software Engineering / Windows Programming · C#, .NET WinForms*  
+  - Developed Windows desktop utilities including a low-latency WAV audio player and numerical analysis tools.
+  - Used background threads to prevent UI freezing during I/O operations and calculation routines.
+
+---
+
+## 🛠️ Technical Skills & Coursework
+
+- **Languages:** Python, C, C++, C#, RISC-V Assembly, SQL
+- **Libraries & Tools:** PyTorch, Scikit-Learn, NumPy, Pandas, Linux, Git, VS Code, Visual Studio
+- **Foundational Coursework:** Data Structures, Algorithms, Operating Systems, Computer Architecture, Linear Algebra, Probability & Statistics
