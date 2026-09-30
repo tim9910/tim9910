@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # TimLin
 
 **Senior Undergraduate in Computer Science**  
@@ -42,8 +40,18 @@
 
 ---
 
+## 📜 Certifications
+
+- **AWS Certified AI Practitioner (AIF-C01)** – Amazon Web Services
+- **AWS Certified Cloud Practitioner (CLF-C02)** – Amazon Web Services
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)** – Microsoft
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** – Microsoft
+
+---
+
 ## 🛠️ Technical Skills & Coursework
 
+- **Cloud & Platforms:** AWS, Microsoft Azure
 - **Languages:** Python, C, C++, C#, RISC-V Assembly, SQL
 - **Libraries & Tools:** PyTorch, Scikit-Learn, NumPy, Pandas, Linux, Git, VS Code, Visual Studio
 - **Foundational Coursework:** Data Structures, Algorithms, Operating Systems, Computer Architecture, Linear Algebra, Probability & Statistics
